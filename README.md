@@ -1,4 +1,4 @@
-# DS using Consumer-Producer Pattern
+# DS using Consumer-Producer Pattern (Publisher-Subscriber)
 
 O código implementa o padrão produtor-consumidor, onde o produtor é a classe SensorMonitor e o consumidor é a classe MessageBroker. 
 O objetivo é simular a leitura de sensores e publicar os valores lidos em uma fila de mensagens para que o consumidor possa consumi-las.
